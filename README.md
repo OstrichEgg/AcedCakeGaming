@@ -28,5 +28,5 @@ Role Descriptions:
 * 1.10. Graphics - This might be further subdivided into sprite creation vs. backgrounds/foregrounds/etc.
 * 1.11. Programming - The framework will probably be javacript/html5 based (e.g. Phaser or EaselJS)
 * 1.12. Project Organization - Communicating with all contributors, forming and maintaining consensus on project direction, ensuring goals are met.
-* 1.13. Sound & Music - sound effects and music
+* 1.13. Sound & Music - Sound effects and music. If you are a musician, this can be a great way to promote your work.
 * 1.14. Testing - Requires having good taste in video games, being able to criticize lameness (e.g. point out aspects of the game that are unoriginal or detract from the fun), finding bugs/flaws, and suggesting improvements.
