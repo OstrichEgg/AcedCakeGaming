@@ -7,7 +7,7 @@ This repo is for planning an Ace-themed web-based game. Upon AVENite Mobocracy's
 
 ♠ The original AVEN thread: http://www.asexuality.org/en/topic/110231-asexuality-themed-video-game/
 
-Please post to the thread if you are interested in contributing!!
+Please post to the thread and/or email the project organizer (saturnalia@bitmessage.ch) if you are interested in contributing!!
 
 §1.0  - Contributors
 --------------------------------------------
