@@ -2,6 +2,7 @@
 ==============
 
 §0.0  - Introduction 
+--------------------------------------------
 This repo is for planning an Ace-themed web-based game. Upon AVENite Mobocracy's suggestion, I will post some publicly editable-lists. These will be for keeping track of who is contributing to the project and what roles they will play.
 
 ♠ The original AVEN thread: http://www.asexuality.org/en/topic/110231-asexuality-themed-video-game/
