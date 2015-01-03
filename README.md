@@ -22,3 +22,11 @@ Contributors (by role):
 * 1.6. Sound & Music 
 * 1.7. Testing 
   
+Role Descriptions:
+* 1.8. Business - Promotion, hosting, distribution, tracking expenses/profits (if any)
+* 1.9. Game Design - Planning the flow of the game, putting the art, sound, and mechanics together into a cohesive whole. Story creation might be an ancillary role or a separate role, depending on what is needed.
+* 1.10. Graphics - This might be further subdivided into sprite creation vs. backgrounds/foregrounds/etc.
+* 1.11. Programming - The framework will probably be javacript/html5 based (e.g. Phaser or EaselJS)
+* 1.12. Project Organization - Communicating with all contributors, forming and maintaining consensus on project direction, ensuring goals are met.
+* 1.13. Sound & Music - sound effects and music
+* 1.14. Testing - Requires having good taste in video games, being able to criticize lameness (e.g. point out aspects of the game that are unoriginal or detract from the fun), finding bugs/flaws, and suggesting improvements.
