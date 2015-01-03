@@ -13,14 +13,16 @@ Please post to the thread and/or email the project organizer (saturnalia@bitmess
 --------------------------------------------
 We haven't decided what tools to use for building the game, and the roles might need to be defined to greater level of granularity. A lot of these issues will be decided once we have an initial team. Contributors will have the ability to modify this repository; this includes being able to upload additional documents, code, art, etc.
 
+We could probably use multiple people for each position, so don't be afraid to apply if you see one or more people already occupying one.
+
 Contributors (by role):
-* 1.1. Business 
-* 1.2. Game Design 
-* 1.3. Graphics 
-* 1.4. Programming 
-* 1.5. Project Organization - OstrichEgg (saturnalia@bitmessage.ch)
-* 1.6. Sound & Music 
-* 1.7. Testing 
+* 1.1. Business -
+* 1.2. Game Design -
+* 1.3. Graphics -
+* 1.4. Programming - DiEvAl (z-diomidov@yandex.ru), ...
+* 1.5. Project Organization - OstrichEgg (saturnalia@bitmessage.ch), ...
+* 1.6. Sound & Music -
+* 1.7. Testing -
   
 Role Descriptions:
 * 1.8. Business - Promotion, hosting, distribution, tracking expenses/profits (if any)
