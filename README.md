@@ -1,4 +1,4 @@
-#AcedCakeGaming
+#Aced Cake Gaming
 ==============
 
 §0.0  - Introduction 
