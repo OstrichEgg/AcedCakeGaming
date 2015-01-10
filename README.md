@@ -22,7 +22,7 @@ Contributors (by role):
 * 1.4. Programming - DiEvAl (z-diomidov@yandex.ru), ...
 * 1.5. Project Organization - OstrichEgg (saturnalia@bitmessage.ch), ...
 * 1.6. Sound & Music -
-* 1.7. Testing -
+* 1.7. Testing - Sutoriku (sunshinepotter@ymail.com)
   
 Role Descriptions:
 * 1.8. Business - Promotion, hosting, distribution, tracking expenses/profits (if any)
